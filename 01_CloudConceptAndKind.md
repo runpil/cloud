@@ -12,7 +12,7 @@
 - SaaS(Software as a Service)
     - Google Drive, MSOffice.com, ...
 - 클라우드를 구축하기 위한 요소기술(Enabling Technology)에 가상화기술과 도커와 같은 컨테이너기반 기술이 있다.
-
+---
 
 ## 가상화(Virtualization)
 ### 가상화(Virtualization)
@@ -28,7 +28,7 @@
 - ISA(Instruction Set Architecture)
     - 하드웨어와 소프트웨어 사이의 인터페이스 정의    
 ### Scale-Up vs Scale-Out
-
+---
 ## 클라우드/가상화 적용사례
 ### 클라우드 서비스
 - 아마존 AAWS(Amazon Web Service)
